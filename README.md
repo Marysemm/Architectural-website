@@ -30,6 +30,10 @@ _Общий вид сайта:_
 ![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI3OTZmZTQzMGQ5MmJjMTNhNjZjNWQxM2VlZTc2YmRkMTRjNDAxNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/tHIy0gwfaEELmY8tSl/giphy.gif)
 
 
+_Результат:_
+
+https://marysemm.github.io/Architectural-website/
+
 _Авторы:_
 
 [Оксана Травкина](https://github.com/ryaba-ya)<br>
