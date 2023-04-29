@@ -25,10 +25,10 @@ _Уникальные фишки:_
 * Hamburger menu
 * Реализация слайдер-галлереи для средних и маленьких экранов
 
-___
+_Общий вид сайта:_
 
-<video src='./asssets/video/presentation-clip.mp4' width=180/>
-___
+![hippo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI3OTZmZTQzMGQ5MmJjMTNhNjZjNWQxM2VlZTc2YmRkMTRjNDAxNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/tHIy0gwfaEELmY8tSl/giphy.gif)
+
 
 _Авторы:_
 
