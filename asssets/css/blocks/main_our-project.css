@@ -1,0 +1,164 @@
+.missions__title {
+    font: 300 64px/64px 'Roboto', sans-serif;
+    color: #BDBDBD;
+    margin-bottom: 15px;
+}
+
+.col__mission-two,
+.col__mission-one {
+    display: flex;
+    align-items: center;
+}
+
+.mission__number {
+    font: 900 200px/234px 'Roboto', sans-serif;
+    display: flex;
+    align-items: center;
+    color: #F2F2F2;
+}
+
+.mission-number1 {
+    padding-right: 12px;
+}
+
+.mission-number2 {
+    padding-right: 35px;
+}
+
+.mission__text {
+    font: 400 22px/36px 'Roboto', sans-serif;
+    color: #333333;
+}
+
+.mission-text1 {
+    width: 279px;
+}
+
+.mission-text2 {
+    width: 420px;
+}
+
+.block-missions {
+    margin-top: 120px;
+}
+
+.project__nav-item_active {
+    position: relative;
+
+}
+
+.project__nav-item {
+    margin-bottom: 30px;
+    padding-left: 0;
+    padding-right: 30px;
+}
+
+.project__nav-pic2 {
+    max-width: 100%;
+}
+
+.project-active {
+    position: relative;
+}
+
+.project__active-wrap {
+    filter: brightness(40%);
+}
+
+.sub {
+    position: absolute;
+    z-index: 3;
+    margin: 10%;
+}
+
+.project__subtitle-button {
+    font: 400 12px/12px 'Roboto', sans-serif;
+    text-decoration: none;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding-left: 10%;
+}
+
+.project__nav-pic {
+    width: 100%;
+}
+
+.project__subtitle-text {
+    font: 700 64px/64px 'Roboto', sans-serif;
+    color: #FFFFFF;
+    filter: none;
+    padding-left: 10%;
+}
+
+.project__nav-pic:hover {
+    filter: brightness(40%);
+}
+
+
+.section__project-title {
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+@media (max-width: 992px) {
+    .row__missions {
+        align-items: center;
+    }
+
+    .col__missions-title {
+        text-align: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .row__missions {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .block-missions {
+        padding: 10px;
+        overflow-x: hidden;
+    }
+
+    .missions__title {
+        font-size: 2.5rem;
+    }
+
+    .col__mission-one,
+    .col__mission-two {
+        display: inline-flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .mission__number {
+        display: block;
+        padding: 0;
+    }
+
+    .section__project-title {
+        font-size: 2.5rem;
+    }
+
+    .project__subtitle-text {
+        font-size: 2em;
+        line-height: 44px;
+        margin-bottom: 4px;
+    }
+
+    .project__subtitle-button {
+        font-size: 8px;
+        line-height: 10px;
+    }
+}
+
+@media (max-width: 410px) {
+    .project__subtitle-text {
+        font-size: 1.5em;
+        line-height: 40px;
+        margin-bottom: -6px;
+        margin-top: -16px;
+    }
+}
